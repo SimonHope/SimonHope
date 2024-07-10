@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nutthapoom(Simon Hope)</h1>
-<h3 align="center">A patient computer engineering from Thailand</h3>
+<h1 align="center">Hi 👋, I'm Nutthapoom</h1>
 
 <h2> My GitHub Stats</h2>
 
